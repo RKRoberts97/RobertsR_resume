@@ -7,24 +7,19 @@ title: Russell Roberts' Resume
 
 <div id="webaddress">
 <a href="rkroberts97@gmail.com">rkroberts97@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/RKRoberts97">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
+- Data
 
 
 ## Related Experience
@@ -73,12 +68,19 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2019`
+__Eagle Scout__
+
+`2018-2020`
+__Senior Lifeguard__, Klahanie HOA
+
+`2020-2022`
+__Service Missionary__, Guyana
+
+`November 2022- December 2022`
+__Dental Assistant__, Sammamish Endodontics
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
