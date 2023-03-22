@@ -3,7 +3,7 @@ layout: cv
 title: Russell Roberts' Resume
 ---
 # Russell Roberts
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
 
 <div id="webaddress">
 <a href="rkroberts97@gmail.com">rkroberts97@gmail.com</a>
