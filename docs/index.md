@@ -94,7 +94,7 @@ __Pinnacle Management Group__,
 
 
 `2019`
-__Eagle Scout__
+__Eagle Scout__, Troop 699
 
 
 `2018-2020`
