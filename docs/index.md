@@ -32,8 +32,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 
-## Related Experience
-- Can program in SQL, Python and R
+## Skills
+- Able to manipulate data in Python, SQL and R
+- Able to create data visualizations in Python and R
 -Experience using Excel, Tableau and Power BI (not yet but hopefully soon)
 
 ### Internships
