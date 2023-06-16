@@ -1,6 +1,5 @@
 ---
 layout: cv
-title: Russell Roberts' Resume
 ---
 # Russell Roberts
 
@@ -8,7 +7,8 @@ title: Russell Roberts' Resume
 
 
 <div id="webaddress">
-<a href="rkroberts97@gmail.com">rkroberts97@gmail.com</a>
+425-499-1106
+| <a href="rkroberts97@gmail.com">rkroberts97@gmail.com</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/RKRoberts97">GitHub</a>
 </div>
@@ -16,68 +16,70 @@ title: Russell Roberts' Resume
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-
-## Education
-
-
-`Expected 2025`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-
-- 4.0 Major GPA
-- Data Science Major 
-- Taken Data Science Programming, Data Wrangling and Visulizations, Imtermediate Statitics
-
-
-
-
+---
 
 ## Skills
-- Able to manipulate data in Python, SQL and R
-- Able to create data visualizations in Python and R
--Experience using Excel, Tableau and Power BI (not yet but hopefully soon)
 
-### Internships
+- Data Wrangling using Pandas and Tidyverse
+- Data Visualization using Altair and ggplot
+- Machine Learning using Sklearn
+- Python, R and SQL expertise
+- Statistical Analysis
+- Communication
+- Problem Solving
 
+---
 
-`Expected Fall 2023`
-__Nintendo of America__, Redmond, WA
--Data Analyst 
+## Experience
 
+**April 2023 - Current**  
+**Brigham Young University-Idaho - Rexburg, ID**  
+**Statistics Teaching Assistant**
 
+- Tutored or mentored students in need of additional instruction.
+- Evaluated and graded papers and recorded grades.
+- Created instructional videos to assist students.
 
+**April 2023 - Current**  
+**Brigham Young University-Idaho DS Society - Rexburg, ID**  
+**Data Science Consultant for Madison Fire Dept**
 
-## Service and Work History
+- Developed a program to assist in budgeting decisions.
+- Created charts to help analyze data.
+- Worked with a team to develop and find solutions to budgeting needs.
 
+**June 2018 - September 2020**  
+**Klahanie Homeowners Association - Sammamish, WA**  
+**Senior Lifeguard**
 
-`2019`
-__Eagle Scout__, Troop 699
+- Led new co-workers and instructed them in basic duties.
+- Maintained strong proficiency in CPR, First Aid, and rescue techniques to provide optimal support to individuals in distress.
+- Monitored behaviors for safety violations and took steps to prevent further violations.
 
+**June 2018 - September 2020**  
+**Klahanie Homeowners Association - Sammamish, WA**  
+**Swim Instructor**
 
-`2018-2020`
-__Senior Lifeguard__, Klahanie HOA
+- Encouraged students to build confidence in and out of water by making swimming fun.
+- Instructed participants in proper stroke techniques to encourage self-reliant swimming.
+- Built relationships with parents and swimmers to increase the likelihood of repeat business in future swim lessons sessions.
+- Emailed and set up customers in a professional manner.
 
+---
 
-`2020-2022`
-__Service Missionary__, Guyana
+## Education and Training
 
+**Brigham Young University - Idaho Rexburg, ID**  
+**Bachelor of Science Data Science**
 
-`November 2022- December 2022`
-__Dental Assistant__, Sammamish Endodontics
-
-
-
-
-
-
-
-
+- Additional Coursework in Data Science Programming, Data Wrangling and Visualization, Intermediate Statistics
+- Data Science Society Member, 2023
 
 
 <!-- ### Footer
 
 
-Last updated: May 2013 -->
+Last updated: June 2023 -->
 
 
 
