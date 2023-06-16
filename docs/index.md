@@ -1,13 +1,7 @@
 ---
 layout: cv
+title: Russell Roberts
 ---
-<head>
-    <title> Russell Roberts </title>
-</head>
-
-# Russell Roberts
-
-
 
 
 <div id="webaddress">
