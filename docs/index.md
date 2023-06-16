@@ -1,7 +1,9 @@
 ---
 layout: cv
-header: Russell Roberts 
 ---
+<head>
+    <title> Russell Roberts </title>
+</head>
 
 # Russell Roberts
 
