@@ -1,5 +1,6 @@
 ---
 layout: cv
+title: Roberts Resume
 ---
 # Russell Roberts
 
@@ -8,7 +9,7 @@ layout: cv
 
 <div id="webaddress">
 425-499-1106
-| <a href="rkroberts97@gmail.com">rkroberts97@gmail.com</a>
+| <a href="https://www.rkroberts97@gmail.com">rkroberts97@gmail.com</a>
 | <a href="https://www.linkedin.com/in/russellkenneyroberts97">LinkedIn</a>
 | <a href="https://github.com/RKRoberts97">GitHub</a>
 </div>
@@ -47,23 +48,6 @@ layout: cv
 - Developed a program to assist in budgeting decisions.
 - Created charts to help analyze data.
 - Worked with a team to develop and find solutions to budgeting needs.
-
-**June 2018 - September 2020**  
-**Klahanie Homeowners Association - Sammamish, WA**  
-**Senior Lifeguard**
-
-- Led new co-workers and instructed them in basic duties.
-- Maintained strong proficiency in CPR, First Aid, and rescue techniques to provide optimal support to individuals in distress.
-- Monitored behaviors for safety violations and took steps to prevent further violations.
-
-**June 2018 - September 2020**  
-**Klahanie Homeowners Association - Sammamish, WA**  
-**Swim Instructor**
-
-- Encouraged students to build confidence in and out of water by making swimming fun.
-- Instructed participants in proper stroke techniques to encourage self-reliant swimming.
-- Built relationships with parents and swimmers to increase the likelihood of repeat business in future swim lessons sessions.
-- Emailed and set up customers in a professional manner.
 
 ---
 
