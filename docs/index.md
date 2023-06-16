@@ -9,7 +9,7 @@ layout: cv
 <div id="webaddress">
 425-499-1106
 | <a href="rkroberts97@gmail.com">rkroberts97@gmail.com</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="www.linkedin.com/in/russellkenneyroberts97">LinkedIn</a>
 | <a href="https://github.com/RKRoberts97">GitHub</a>
 </div>
 
