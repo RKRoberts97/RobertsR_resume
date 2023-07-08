@@ -2,7 +2,9 @@
 layout: cv
 title: Russell Roberts
 ---
-
+<head>
+  <link rel="stylesheet" type="text/css" href="index.css">
+</head>
 
 <div id="webaddress">
 425-499-1106
