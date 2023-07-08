@@ -22,7 +22,7 @@ title: Russell Roberts
 - Data Visualization using Altair and ggplot
 - Machine Learning using Sklearn
 - Python, R and SQL expertise
-- Statistical Analysis
+- Statistical Analysis and Modeling
 - Communication
 - Problem Solving
 
